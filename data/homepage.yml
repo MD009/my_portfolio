@@ -66,8 +66,12 @@ education:
     academy: Cardiff School
 service:
   enable: true
-  title: Services
+  title: Certifications
   item:
+  - title: Tableau Desktop Specialist
+    icon: https://res.cloudinary.com/purplecoffee/image/upload/v1615766623/Tableau_Desktop_Specialist_bn7krs.png
+    content: ''
+    highlighted: false
   - title: UI Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
