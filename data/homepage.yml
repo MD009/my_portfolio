@@ -15,8 +15,8 @@ skill:
   - title: Requirement Gathering
     progress: ''
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
+  - title: Splunk
+    progress: ''
     color: "#9473e6"
   - title: After Effects
     progress: 80%
