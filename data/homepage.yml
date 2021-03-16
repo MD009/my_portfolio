@@ -52,6 +52,9 @@ education:
   enable: true
   title: Education
   item:
+  - title: Bachelor's in Technology
+    year: "2007"
+    academy: Saheed Udham Singh College of Engineering and Technology, India
   - title: Masters in Science
     year: "2008"
     academy: Gannon University, Erie, PA
