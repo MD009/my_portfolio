@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "Kross-Hugo"
+theme = "Kross - Hugo"
 title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
 URL = ""
