@@ -12,8 +12,8 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
-    progress: 90%
+  - title: Requirement Gathering
+    progress: ''
     color: "#fdb157"
   - title: Logo Design
     progress: 60%
