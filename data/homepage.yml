@@ -52,6 +52,9 @@ education:
   enable: true
   title: Education
   item:
+  - title: Masters in Science
+    year: "2008"
+    academy: Gannon University, Erie, PA
   - title: Marters in UX Design
     year: "2006"
     academy: Masassusets Institute of Technology
