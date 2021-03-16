@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "Manik - Hugo"
+theme = "Kross-Hugo"
 title = "Manik Dhingra | Hugo Portfolio Template"
 [[menu.main]]
 URL = ""
