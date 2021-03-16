@@ -24,15 +24,15 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+address = "4 Rosewood Ter, East Rutherford, NJ, 07073 "
+author = "Manik Dhingra"
 copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
-email = "steve.fruits@email.com"
-google_analitycs_id = "Your ID"
+email = "manik.analyst@gmail.com"
+google_analitycs_id = ""
 home = "Home"
 logo = ""
-phone = "+880 2544 658 256"
+phone = "+1 814-384-9044"
 theme_color = "#41228e"
 [params.contact]
 enable = true
