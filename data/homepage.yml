@@ -28,6 +28,10 @@ experience:
   enable: true
   title: Experience
   item:
+  - logo: https://res.cloudinary.com/purplecoffee/image/upload/v1615767770/jpm_wzclsc.png
+    title: Business Analyst
+    company: JP Morgan Chase
+    duration: September 2015 - Present
   - logo: images/experience/icon-1.png
     title: Junior UX Designer
     company: WEBEX
