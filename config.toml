@@ -31,7 +31,7 @@ description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "https://res.cloudinary.com/purplecoffee/image/upload/v1615766185/sample.jpg"
+logo = ""
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
